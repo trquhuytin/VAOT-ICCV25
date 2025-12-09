@@ -1,0 +1,9 @@
+Data
+Data_Test
+__pycache__
+.vscode
+.idea
+LOGS
+LOGS2
+log*
+npyrecords*
