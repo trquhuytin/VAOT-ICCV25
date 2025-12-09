@@ -1,10 +1,10 @@
 # [Joint Self-Supervised Video Alignment and Action Segmentation (ICCV 2025)](https://arxiv.org/abs/2503.16832)
 If you use the code, please cite our paper:
 ```
-@article{ali2025joint,
+@inproceedings{ali2025joint,
   title={Joint Self-Supervised Video Alignment and Action Segmentation},
   author={Ali, Ali Shah and Mahmood, Syed Ahmed and Saeed, Mubin and Konin, Andrey and Zia, M Zeeshan and Tran, Quoc-Huy},
-  journal={arXiv preprint arXiv:2503.16832},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
   year={2025}
 }
 ```
