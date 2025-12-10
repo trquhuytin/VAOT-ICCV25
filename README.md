@@ -1,6 +1,6 @@
 # [Joint Self-Supervised Video Alignment and Action Segmentation (ICCV 2025)](https://arxiv.org/abs/2503.16832)
 
-This repository contains the video alignment model (VAOT) only.
+This repository contains our VAOT model for video alignment only.
 
 If you use the code, please cite our paper:
 ```
